@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Río de Janeiro · 20–26 dic 2026</name>
+<description>Itinerario completo: 54 sitios con hora, dirección y precio. Organizados por día.</description>
+<Style id="d0"><IconStyle><color>ffffffff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d1"><IconStyle><color>ff2994f0</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d2"><IconStyle><color>fff771a3</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d3"><IconStyle><color>ffbbc539</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d4"><IconStyle><color>ffff9e4a</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d5"><IconStyle><color>ff439eff</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d6"><IconStyle><color>ff50b93f</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Style id="d7"><IconStyle><color>ff5f64f4</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle><LabelStyle><scale>0.9</scale></LabelStyle></Style>
+<Folder><name>⭐ Útiles cualquier día</name>
+<Placemark><name>Hotel Riale Imperial</name><description>Hotel
+Av. do Catete · metro Catete · base del viaje</description><styleUrl>#d0</styleUrl><Point><coordinates>-43.176603,-22.927599,0</coordinates></Point></Placemark>
+<Placemark><name>Belmonte Flamengo</name><description>Caipirinha / bar
+Praia do Flamengo 300 · caipirinha cualquier noche</description><styleUrl>#d0</styleUrl><Point><coordinates>-43.175195,-22.933002,0</coordinates></Point></Placemark>
+<Placemark><name>Cobal do Humaitá</name><description>Restaurante
+Botafogo · 15 restaurantes al aire libre</description><styleUrl>#d0</styleUrl><Point><coordinates>-43.192999,-22.955999,0</coordinates></Point></Placemark>
+<Placemark><name>Fogo de Chão Botafogo</name><description>Restaurante
+Rodizio premium R$ 150-180 · opción del 24</description><styleUrl>#d0</styleUrl><Point><coordinates>-43.179998,-22.944495,0</coordinates></Point></Placemark>
+<Placemark><name>Zona Sul Copacabana · 24 h</name><description>Supermercado 24 h
+Av. N.S. de Copacabana 936 · licor y agua</description><styleUrl>#d0</styleUrl><Point><coordinates>-43.185499,-22.972002,0</coordinates></Point></Placemark>
+<Placemark><name>Galeto Sat's</name><description>Caipirinha / bar
+Copacabana · +300 cachaças · comida barata</description><styleUrl>#d0</styleUrl><Point><coordinates>-43.172995,-22.964496,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Domingo 20 · Misa, Lapa y Santa Teresa</name>
+<Placemark><name>08:30 · Aterro do Flamengo</name><description>Atracción
+Gratis · domingo sin carros · SOLO de mañana</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.172498,-22.934505,0</coordinates></Point></Placemark>
+<Placemark><name>10:00 · Catedral Metropolitana</name><description>Atracción
+Misa 10:00 · 96 m de alto · gratis</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.180495,-22.910899,0</coordinates></Point></Placemark>
+<Placemark><name>11:10 · Arcos da Lapa</name><description>Atracción
+Acueducto de 1723 · gratis</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.179904,-22.913295,0</coordinates></Point></Placemark>
+<Placemark><name>11:30 · Escadaria Selarón</name><description>Atracción
+215 escalones · gratis · siempre abierta</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.179099,-22.915300,0</coordinates></Point></Placemark>
+<Placemark><name>12:45 · Os Ximenes</name><description>Restaurante
+Lapa · nordestino · platos R$ 27,60</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.181500,-22.914199,0</coordinates></Point></Placemark>
+<Placemark><name>14:00 · Estação Carioca · bonde</name><description>Atracción
+R$ 20 ida y vuelta · fin de semana 9-17</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.178200,-22.909602,0</coordinates></Point></Placemark>
+<Placemark><name>14:40 · Largo dos Guimarães</name><description>Atracción
+Corazón de Santa Teresa</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.187498,-22.919799,0</coordinates></Point></Placemark>
+<Placemark><name>15:30 · Bar do Mineiro</name><description>Caipirinha / bar
+R. Paschoal Carlos Magno 99 · caipirinha R$ 22-30</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.187001,-22.919004,0</coordinates></Point></Placemark>
+<Placemark><name>16:00 · Parque das Ruínas</name><description>Atracción
+Mirador gratis · cierra ~18:00</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.183003,-22.916705,0</coordinates></Point></Placemark>
+<Placemark><name>18:00 · Mirante do Pasmado</name><description>Atracción
+Atardecer 18:36 · gratis · postal de Botafogo</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.177999,-22.948199,0</coordinates></Point></Placemark>
+<Placemark><name>19:20 · Rotisseria Sírio Libaneza</name><description>Restaurante
+Largo do Machado · falafel R$ 9,50</description><styleUrl>#d1</styleUrl><Point><coordinates>-43.178496,-22.929505,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Lunes 21 · Compras, Centro y samba</name>
+<Placemark><name>08:45 · SAARA / Uruguaiana</name><description>Atracción
+1.300 tiendas · compras del viaje</description><styleUrl>#d2</styleUrl><Point><coordinates>-43.181702,-22.904602,0</coordinates></Point></Placemark>
+<Placemark><name>12:15 · Real Gabinete Português</name><description>Atracción
+R. Luís de Camões 30 · gratis · lun-vie 9-18</description><styleUrl>#d2</styleUrl><Point><coordinates>-43.182198,-22.905299,0</coordinates></Point></Placemark>
+<Placemark><name>13:00 · Casa Paladino</name><description>Restaurante
+Centro · centenario · R$ 14-35</description><styleUrl>#d2</styleUrl><Point><coordinates>-43.179998,-22.903600,0</coordinates></Point></Placemark>
+<Placemark><name>14:15 · Confeitaria Colombo</name><description>Restaurante
+R. Gonçalves Dias 32 · café y postre R$ 30</description><styleUrl>#d2</styleUrl><Point><coordinates>-43.177999,-22.904798,0</coordinates></Point></Placemark>
+<Placemark><name>Tapí Centro</name><description>Açaí
+Av. Rio Branco · açaí R$ 20-30</description><styleUrl>#d2</styleUrl><Point><coordinates>-43.176201,-22.904003,0</coordinates></Point></Placemark>
+<Placemark><name>19:30 · Pedra do Sal</name><description>Atracción
+Samba solo lunes 19-24h · gratis</description><styleUrl>#d2</styleUrl><Point><coordinates>-43.185700,-22.897499,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Martes 22 · Urca y Pan de Azúcar</name>
+<Placemark><name>08:15 · Pista Cláudio Coutinho</name><description>Atracción
+Gratis · abre 6:00 · 1,25 km · micos</description><styleUrl>#d3</styleUrl><Point><coordinates>-43.165294,-22.955596,0</coordinates></Point></Placemark>
+<Placemark><name>09:30 · Praia Vermelha</name><description>Atracción
+Playa tranquila al pie del morro</description><styleUrl>#d3</styleUrl><Point><coordinates>-43.164798,-22.954800,0</coordinates></Point></Placemark>
+<Placemark><name>11:45 · Mureta da Urca / Bar Urca</name><description>Caipirinha / bar
+Pastéis de camarão · chopp · R$ 40-50</description><styleUrl>#d3</styleUrl><Point><coordinates>-43.163402,-22.948101,0</coordinates></Point></Placemark>
+<Placemark><name>14:30 · Pão de Açúcar</name><description>Atracción
+396 m · el ticket vale todo el día</description><styleUrl>#d3</styleUrl><Point><coordinates>-43.156600,-22.948700,0</coordinates></Point></Placemark>
+<Placemark><name>16:45 · Morro da Urca · Vila do Noel</name><description>Atracción
+220 m · atardecer 18:37 · cierra 20:00 martes</description><styleUrl>#d3</styleUrl><Point><coordinates>-43.163402,-22.952001,0</coordinates></Point></Placemark>
+<Placemark><name>20:30 · Restaurante Adriano</name><description>Restaurante
+Botafogo · 70 años · pescado R$ 28</description><styleUrl>#d3</styleUrl><Point><coordinates>-43.185795,-22.952502,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Miércoles 23 · Cristo y Zona Sur</name>
+<Placemark><name>07:10 · Estación Cosme Velho</name><description>Atracción
+Tren 8:00 · check-in cierra 7:20</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.203598,-22.934898,0</coordinates></Point></Placemark>
+<Placemark><name>08:25 · Cristo Redentor</name><description>Atracción
+710 m · R$ 134</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.210506,-22.951903,0</coordinates></Point></Placemark>
+<Placemark><name>10:40 · Parque Lage</name><description>Atracción
+Gratis · palacete 9-17 · café en el patio</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.211996,-22.959997,0</coordinates></Point></Placemark>
+<Placemark><name>14:30 · Lagoa Rodrigo de Freitas</name><description>Atracción
+Gratis · 7,5 km de borde peatonal</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.209997,-22.971402,0</coordinates></Point></Placemark>
+<Placemark><name>Academia da Cachaça</name><description>Caipirinha / bar
+R. Conde de Bernadotte 26, Leblon · R$ 30-40</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.222501,-22.983996,0</coordinates></Point></Placemark>
+<Placemark><name>17:45 · Mirante do Leblon</name><description>Atracción
+Atardecer 18:37 · gratis · llegar 40 min antes</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.232496,-22.989497,0</coordinates></Point></Placemark>
+<Placemark><name>19:10 · Havaianas flagship</name><description>Tienda
+R. Garcia D'Ávila 124 · 4 pisos · hasta ~22:00</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.206496,-22.983505,0</coordinates></Point></Placemark>
+<Placemark><name>20:15 · Polis Sucos</name><description>Açaí
+R. Maria Quitéria 70 · açaí sin azúcar R$ 25-35</description><styleUrl>#d4</styleUrl><Point><coordinates>-43.205005,-22.983996,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Jueves 24 · Puerto y Nochebuena</name>
+<Placemark><name>09:00 · AquaRio</name><description>Atracción
+R$ 80 · abre 9:00 · 2h30</description><styleUrl>#d5</styleUrl><Point><coordinates>-43.191697,-22.893501,0</coordinates></Point></Placemark>
+<Placemark><name>13:00 · Museu do Amanhã (por fuera)</name><description>Atracción
+Gratis · Calatrava · espejos de agua</description><styleUrl>#d5</styleUrl><Point><coordinates>-43.179501,-22.894002,0</coordinates></Point></Placemark>
+<Placemark><name>14:30 · Mural Etnias</name><description>Atracción
+190 m · récord Guinness · gratis</description><styleUrl>#d5</styleUrl><Point><coordinates>-43.186800,-22.896105,0</coordinates></Point></Placemark>
+<Placemark><name>15:15 · Praça Mauá</name><description>Atracción
+Fotos del puerto</description><styleUrl>#d5</styleUrl><Point><coordinates>-43.182198,-22.895495,0</coordinates></Point></Placemark>
+<Placemark><name>19:15 · Carretão Siqueira Campos</name><description>Restaurante
+R. Siqueira Campos 23 · rodizio R$ 110-120</description><styleUrl>#d5</styleUrl><Point><coordinates>-43.185795,-22.966805,0</coordinates></Point></Placemark>
+<Placemark><name>21:30 · Zona Sul Flamengo · 24 h</name><description>Supermercado 24 h
+R. Machado de Assis 40 · licor · ABIERTO 24 H</description><styleUrl>#d5</styleUrl><Point><coordinates>-43.175799,-22.931804,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Viernes 25 · Navidad en la playa</name>
+<Placemark><name>09:25 · Copacabana Posto 4</name><description>Atracción
+Playa · kit del hotel gratis</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.179998,-22.970498,0</coordinates></Point></Placemark>
+<Placemark><name>12:45 · Faenza · buffet</name><description>Restaurante
+R. Siqueira Campos 18 · desde R$ 118</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.185700,-22.966696,0</coordinates></Point></Placemark>
+<Placemark><name>14:15 · Casa do Açaí</name><description>Açaí
+R. Siqueira Campos 143 · el más barato R$ 15-20</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.186800,-22.967797,0</coordinates></Point></Placemark>
+<Placemark><name>15:40 · Copacabana Posto 6</name><description>Atracción
+Extremo tranquilo</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.189201,-22.984497,0</coordinates></Point></Placemark>
+<Placemark><name>16:00 · Forte de Copacabana</name><description>Atracción
+R$ 5 · confirmar si abre el 25</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.187805,-22.987699,0</coordinates></Point></Placemark>
+<Placemark><name>17:45 · Pedra do Arpoador</name><description>Atracción
+Atardecer 18:38 · aplauso al sol · gratis</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.193495,-22.988702,0</coordinates></Point></Placemark>
+<Placemark><name>19:00 · Quioscos Av. Vieira Souto</name><description>Caipirinha / bar
+Ipanema · caipirinha frente al mar R$ 25-35</description><styleUrl>#d6</styleUrl><Point><coordinates>-43.200995,-22.987198,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>Sábado 26 · Maracaná y despedida</name>
+<Placemark><name>09:00 · Tour Maracaná</name><description>Atracción
+R$ 94 · abre 9:00 · verificar que no haya partido</description><styleUrl>#d7</styleUrl><Point><coordinates>-43.230202,-22.912097,0</coordinates></Point></Placemark>
+<Placemark><name>10:45 · Quinta da Boa Vista</name><description>Atracción
+Gratis · metro São Cristóvão</description><styleUrl>#d7</styleUrl><Point><coordinates>-43.223104,-22.905299,0</coordinates></Point></Placemark>
+<Placemark><name>17:30 · Tacacá do Norte</name><description>Açaí
+R. Barão do Flamengo 35 · EL MEJOR açaí · R$ 25-35</description><styleUrl>#d7</styleUrl><Point><coordinates>-43.177999,-22.931804,0</coordinates></Point></Placemark>
+<Placemark><name>19:15 · Café Lamas</name><description>Caipirinha / bar
+R. Marquês de Abrantes 18 · desde 1874 · hasta 2 a.m.</description><styleUrl>#d7</styleUrl><Point><coordinates>-43.178496,-22.934004,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>
